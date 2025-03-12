@@ -9,7 +9,7 @@ const Index = () => {
       <header className="p-6 flex flex-col items-center justify-center">
         <div className="max-w-6xl w-full">
           <h1 className="text-3xl md:text-4xl font-medium tracking-tight text-center">
-            Image <span className="text-primary font-semibold">Tune-o-matic</span>
+            Image <span className="text-primary font-semibold">Adjustments</span>
           </h1>
           <p className="text-muted-foreground text-center mt-2 max-w-2xl mx-auto">
             A powerful yet simple image editor with real-time adjustments
@@ -26,7 +26,7 @@ const Index = () => {
       <footer className="p-6 bg-muted/30 border-t">
         <div className="max-w-6xl mx-auto text-center">
           <p className="text-sm text-muted-foreground">
-            Image Tune-o-matic — Powered by OpenCV.js
+            Powered by OpenCV.js
           </p>
         </div>
       </footer>

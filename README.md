@@ -30,7 +30,7 @@ Follow these steps to run the project locally:
 git clone [repository-url]
 
 # Navigate to the project directory
-cd image-tune-o-matic
+cd image-adjustment
 
 # Install dependencies
 npm install
