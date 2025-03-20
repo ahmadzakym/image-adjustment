@@ -54,12 +54,12 @@ const ControlPanel: React.FC<ControlPanelProps> = ({
   return (
     <div
       className={cn(
-        "w-full rounded-xl p-5 glass-card animate-slide-in md:p-2.5 lg:p-5",
+        "w-full rounded-xl p-4 glass-card animate-slide-in md:p-2.5 lg:p-4",
         className
       )}
     >
       <div className="flex items-center justify-between mb-4 overflow-x-auto gap-2.5">
-        <h2 className="text-lg font-medium flex items-center gap-2">
+        <h2 className="text-md font-medium flex items-center gap-2">
           <Sliders className="w-5 h-5 text-primary" />
           Adjustments
         </h2>
